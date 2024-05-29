@@ -1,4 +1,4 @@
-# Task-5-Exploratory-Data-Analysis-Sports
+# Exploratory-Data-Analysis-Sports
 Here I have created the EDA model of the IPL dataset
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
